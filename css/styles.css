@@ -7,7 +7,7 @@
 
 body {
 	font-family: 'Lora', serif;
-	color: #202030;
+	color: #334139;
 	background-color: #f8f8fc;
 }
 
@@ -23,7 +23,7 @@ body {
 	
 }
 .resume-header {
-    background-color: #F9B4ED;
+    background-color: #C52184;
 }
 
 .resume-main {
@@ -31,7 +31,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #E574BC;
+	background-color: #F9B4ED;
 }
 
 /* Styles for lists in the document */
